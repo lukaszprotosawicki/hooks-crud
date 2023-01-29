@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+	background-color: black;
+}
+
+.main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	color: white;
+}
