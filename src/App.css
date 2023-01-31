@@ -8,6 +8,7 @@
 
 .main {
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
@@ -16,4 +17,10 @@
 
 .main-header {
 	font-family: "Montserrat", sans-serif;
+}
+
+.create-form label {
+	color: white !important;
+	font-family: "Montserrat", sans-serif;
+	font-size: 12px !important;
 }
